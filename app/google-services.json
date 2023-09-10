@@ -1,0 +1,349 @@
+{
+  "project_info": {
+    "project_number": "154485499874",
+    "firebase_url": "https://calendarappexample-a8a2e-default-rtdb.firebaseio.com",
+    "project_id": "calendarappexample-a8a2e",
+    "storage_bucket": "calendarappexample-a8a2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154485499874:android:1a5940a60343df5bd07bbb",
+        "android_client_info": {
+          "package_name": "CalendarTesting.java"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154485499874-4oeue445c1ba1pt606ilh0b1to42n4u9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKiJLgbNmaq9MoYhpFMIgibhjHvSl3UYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154485499874-4oeue445c1ba1pt606ilh0b1to42n4u9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154485499874:android:8d6a481254c4d2f4d07bbb",
+        "android_client_info": {
+          "package_name": "Smart_Calendar.java"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154485499874-4oeue445c1ba1pt606ilh0b1to42n4u9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKiJLgbNmaq9MoYhpFMIgibhjHvSl3UYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154485499874-4oeue445c1ba1pt606ilh0b1to42n4u9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154485499874:android:5bdfd3d629991859d07bbb",
+        "android_client_info": {
+          "package_name": "codewithcal.au.calendarappexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154485499874-4oeue445c1ba1pt606ilh0b1to42n4u9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKiJLgbNmaq9MoYhpFMIgibhjHvSl3UYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154485499874-4oeue445c1ba1pt606ilh0b1to42n4u9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154485499874:android:4f16bc24d6217151d07bbb",
+        "android_client_info": {
+          "package_name": "com.amit.action.my_diary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154485499874-mgrnb0n3lc51tn2svbkn0c8c5bd7796n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amit.action.my_diary",
+            "certificate_hash": "c711a9ddbb7af7028670fb1e1db76db0f71a447b"
+          }
+        },
+        {
+          "client_id": "154485499874-4oeue445c1ba1pt606ilh0b1to42n4u9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKiJLgbNmaq9MoYhpFMIgibhjHvSl3UYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154485499874-4oeue445c1ba1pt606ilh0b1to42n4u9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154485499874:android:85eaac9f002d840fd07bbb",
+        "android_client_info": {
+          "package_name": "com.example.notesapptutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154485499874-uhvjv2apdia7o7g6dlfttd30jv3idfcn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.notesapptutorial",
+            "certificate_hash": "c711a9ddbb7af7028670fb1e1db76db0f71a447b"
+          }
+        },
+        {
+          "client_id": "154485499874-4oeue445c1ba1pt606ilh0b1to42n4u9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKiJLgbNmaq9MoYhpFMIgibhjHvSl3UYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154485499874-4oeue445c1ba1pt606ilh0b1to42n4u9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154485499874:android:41859affbbc97dd9d07bbb",
+        "android_client_info": {
+          "package_name": "com.usmaan.hangman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154485499874-4oeue445c1ba1pt606ilh0b1to42n4u9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKiJLgbNmaq9MoYhpFMIgibhjHvSl3UYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154485499874-4oeue445c1ba1pt606ilh0b1to42n4u9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154485499874:android:e8852a86226d036dd07bbb",
+        "android_client_info": {
+          "package_name": "diary.memopad.java"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154485499874-e8iqi4i123i009d8cfba5acjuhg1bd99.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "diary.memopad.java",
+            "certificate_hash": "c711a9ddbb7af7028670fb1e1db76db0f71a447b"
+          }
+        },
+        {
+          "client_id": "154485499874-4oeue445c1ba1pt606ilh0b1to42n4u9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKiJLgbNmaq9MoYhpFMIgibhjHvSl3UYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154485499874-4oeue445c1ba1pt606ilh0b1to42n4u9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154485499874:android:8fcac42cde3f9e42d07bbb",
+        "android_client_info": {
+          "package_name": "diary.smart.calendar.java"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154485499874-jm4loor22ntq4d61sm67pbohdpuoebmp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "diary.smart.calendar.java",
+            "certificate_hash": "c711a9ddbb7af7028670fb1e1db76db0f71a447b"
+          }
+        },
+        {
+          "client_id": "154485499874-4oeue445c1ba1pt606ilh0b1to42n4u9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKiJLgbNmaq9MoYhpFMIgibhjHvSl3UYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154485499874-4oeue445c1ba1pt606ilh0b1to42n4u9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154485499874:android:5bcbac4f7aba09c9d07bbb",
+        "android_client_info": {
+          "package_name": "my.com.newapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154485499874-6i4jvss6vgs1a3k1gb7p4obtibbp2miq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "my.com.newapps",
+            "certificate_hash": "c711a9ddbb7af7028670fb1e1db76db0f71a447b"
+          }
+        },
+        {
+          "client_id": "154485499874-4oeue445c1ba1pt606ilh0b1to42n4u9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKiJLgbNmaq9MoYhpFMIgibhjHvSl3UYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154485499874-4oeue445c1ba1pt606ilh0b1to42n4u9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154485499874:android:71b23a7ba59e7ec2d07bbb",
+        "android_client_info": {
+          "package_name": "smart.calendar.java"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154485499874-ih34mehm8j8fqt386dmib5v88vot56fo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "smart.calendar.java",
+            "certificate_hash": "c711a9ddbb7af7028670fb1e1db76db0f71a447b"
+          }
+        },
+        {
+          "client_id": "154485499874-4oeue445c1ba1pt606ilh0b1to42n4u9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKiJLgbNmaq9MoYhpFMIgibhjHvSl3UYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154485499874-4oeue445c1ba1pt606ilh0b1to42n4u9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

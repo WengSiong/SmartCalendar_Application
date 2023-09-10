@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.circularreveal.CircularRevealRelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/lighterbabyblue"
+    tools:context=".notedetails">
+
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbarofnotedetail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/lighterbabyblue">
+
+        <TextView
+            android:id="@+id/titleofnotedetail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="12dp"
+            android:text="Title"
+            android:textColor="@color/black"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+    </androidx.appcompat.widget.Toolbar>
+
+    <!-- Wrap the content you want to scroll in a NestedScrollView -->
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/toolbarofnotedetail"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <!-- Content TextView -->
+            <TextView
+                android:id="@+id/contentofnotedetail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/lighterbabyblue"
+                android:gravity="top|left"
+                android:hint="Write something..."
+                android:padding="15dp"
+                android:textColor="@color/black"
+                android:textSize="20sp">
+            </TextView>
+
+            <TextView
+                android:id="@+id/datetimeview"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="15dp"
+                android:hint="Created Date &amp; Time : " />
+
+            <TextView
+                android:id="@+id/datetimeview2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="15dp"
+                android:hint="" />
+
+            <!-- Add more content views here -->
+
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/gotoeditnote"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="bottom|end"
+        android:layout_marginRight="58dp"
+        android:layout_marginBottom="67dp"
+        android:background="#A1F4FB"
+        android:src="@drawable/ic_baseline_edit_24"
+        app:maxImageSize="30dp"
+        tools:ignore="SpeakableTextPresentCheck">
+    </com.google.android.material.floatingactionbutton.FloatingActionButton>
+
+    <ImageView
+        android:id="@+id/backGround"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="-1dp"
+        android:layout_marginTop="-3dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="0dp"
+        android:alpha="0.2"
+        tools:srcCompat="@tools:sample/avatars" />
+</com.google.android.material.circularreveal.CircularRevealRelativeLayout>
